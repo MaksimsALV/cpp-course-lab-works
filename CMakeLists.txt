@@ -7,6 +7,8 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(exercise1 lab2/functions/exercise1.cpp)
 add_executable(exercise2 lab2/functions/exercise2.cpp)
 add_executable(lab2-character-sequence-exercise1 lab2/character-sequence/lab2-character-sequence-exercise1.cpp)
+add_executable(lab2-character-sequence-exercise2 lab2/character-sequence/lab2-character-sequence-exercise2.cpp)
+
 
 #lab4
 add_executable(lab4-exercise1 lab4/pointers-addresses-references/lab4-exercise1.cpp)
